@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  JavacompilerinCpp.cpp
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(87): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(194): warning C4129: '+': unrecognized character escape sequence
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(356): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\java compiler in cpp\java compiler in cpp\javacompilerincpp.cpp(452): warning C4129: 'd': unrecognized character escape sequence
+  Java compiler in Cpp.vcxproj -> C:\Users\yuval\source\repos\Java compiler in Cpp\Debug\Java compiler in Cpp.exe
+  Java compiler in Cpp.vcxproj -> C:\Users\yuval\source\repos\Java compiler in Cpp\Debug\Java compiler in Cpp.pdb (Partial PDB)
